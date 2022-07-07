@@ -58,7 +58,7 @@ function agregarStringInvertida() {
     //  }
 
   class Persona {
-    constructor(nombre, apellido, edad, domicilio) {
+    constructor(Huber, Soto, veinticinco, jiutepec) {
       // Tu código:
       this.nombre = Huber,
       this.apellido = Soto,
